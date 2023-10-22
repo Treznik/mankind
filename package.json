@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Incline",
+  "name": "incline",
   "version": "1.0.9",
   "description": "Landing page set",
   "main": "gulpfile.js",
@@ -33,5 +33,6 @@
     "jquery": "^3.4.1",
     "jquery-parallax.js": "^1.5.0",
     "waypoints": "^4.0.1"
-  }
+  },
+  "license": "ISC"
 }
